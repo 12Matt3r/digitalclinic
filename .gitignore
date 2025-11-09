@@ -889,15 +889,9 @@
 # ==============================================================================
 # PROJECT SPECIFIC
 # ==============================================================================
-# NPC Therapy specific ignores
-workspace/
-data/
-uploads/
-downloads/
-user_input_files/
-*.zip
-node_modules/
-.env
-.DS_Store
-Thumbs.db
+# Add your project-specific ignores here
+# workspace/
+# data/
+# uploads/
+# downloads/
 
